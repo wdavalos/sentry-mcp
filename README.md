@@ -220,4 +220,5 @@ Default events (actor start, heartbeat) are free. Set pricing per-tool in Apify 
 
 ---
 
-Built on [Apify](https://apify.com) — the platform for web scraping, data extraction, and browser automation.
+Built on [Apify](https://apify.com/red.cars/sentry-mcp) — the platform for web scraping, data extraction, and browser automation.
+> [ScraperFleet data page](https://scraperfleet.com/actors/sentry-mcp/)
